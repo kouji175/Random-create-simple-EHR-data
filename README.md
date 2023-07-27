@@ -1,5 +1,6 @@
 # Random-create-simple-EHR-data
 This is a python script which used to produce fake EHR data in New York City.
+This job's main aim is used for Data Management's final project.
 The Python script generates multiple DataFrames to simulate medical information. Here are the details of the data ranges and randomization for each DataFrame:
 
 person_df: Contains 1500 rows representing individuals' personal information.
